@@ -1,2 +1,2 @@
 
-const arr = ["Hassan"];
+const arr = ["Hassan", "Ashan"];
